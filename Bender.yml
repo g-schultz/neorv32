@@ -61,3 +61,4 @@ sources:
     - rtl/core/neorv32_dmem_ram.vhd
     - rtl/core/neorv32_bootrom_image.vhd
     - rtl/core/neorv32_bootrom_rom.vhd
+    - rtl/system_integration/xbus2axi4_bridge.vhd
